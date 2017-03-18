@@ -1,0 +1,30 @@
+Fuente : http://www.incanatoit.com/2015/04/sistema-de-ventas-en-java-mysql-netbeans-codigo-barras.html
+
+Desarrollar un sistema para manejar los servicios que ofrece la empresa Happy Tours que brinda servicio exclusivo de movilidad Particular y Empresarial, entre los servicios que ofrece son los siguientes: 
+	.TRANSPORTE
+	.TURISMO
+	.EVENTOS
+	.TRASLADOS
+	.MATRIMONIO
+	.15 años
+	.OTROs
+
+
+Funcionalidades:
+	Control de Acceso
+
+	Entorno del Sistema
+
+		.Flota :  Autos, camionetas, minivans, custers
+		.Servicios : Transporte , turismo, eventos, traslados, 15 años 
+		.Ventas
+		.Consultas 
+		.Anulaciones
+		.Empleados
+		.Cliente
+
+
+Registro de Clientes ( Agregar, Consultar, actualizar, Anular)
+Registro de Flotas  ( Agregar, Consultar, actualizar, Anular)
+Registro de Empleados  ( Agregar, Consultar, actualizar, Anular)
+Registro de Ventas ( que tenga atributos de fecha de servicio, hora de inicio y horas de servicio )
